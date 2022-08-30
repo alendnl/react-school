@@ -1,0 +1,12 @@
+.editor div {
+	margin-top: 0.5rem;
+}
+
+.editor label {
+	display: block;
+	font-size: 14px;
+}
+
+.spacing {
+	margin-top: 1rem;
+}
